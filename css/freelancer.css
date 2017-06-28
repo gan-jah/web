@@ -68,7 +68,9 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #A3182A;
+  background-size: cover;
+  background-image: url(http://all4desktop.com/data_images/original/4241936-road.jpg);
   color: white;
 }
 header .container {
